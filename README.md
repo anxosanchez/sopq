@@ -23,4 +23,4 @@ Ficheiro: EC10.tipo
 ## Estudio de caso 11. Exemplo de exame final
 Ficheiro: EC11.tipo
 ## Estudio de caso 12. FUG para mesturas multicompoñente.
-Ficheiro: EC21.tipo
+Ficheiro: EC12.tipo
