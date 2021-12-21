@@ -16,7 +16,3 @@ Ficheiro: EC02.tipo
 
 ## Caso 03. Diagramas Pxy e Txy de mesturas binarias
 Ficheiro: EC03.tipo
-
-
-
-
