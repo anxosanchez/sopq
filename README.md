@@ -9,10 +9,8 @@ ECXX.tipo
 onde XX representa o número co que aparece na plataforma e a terminación varía segundo sexa unha folla de cálculo (**xlsx, ods**), un script de matlam ou octave (**.m**)ou un script de python, ou un jupyter notebook (**.py**, **.ipynb**).
 
 ## Casos 01. Cálculos PVT para gases reais.
-Ficheiros: EC01.tipo [Excel](https://github.com/anxosanchez/sopq/blob/main/Casos%20de%20teor%C3%ADa/Excel/EC01.xlxs), [Libreoffice Calc](https://github.com/anxosanchez/sopq/blob/main/Casos%20de%20teor%C3%ADa/Excel/EC01.ods), [Jupyter Notebook](https://github.com/anxosanchez/sopq/blob/main/Casos%20de%20teor%C3%ADa/Jupyter/EC01.ipynb), [Matlab]
-(https://github.com/anxosanchez/sopq/blob/main/Casos%20de%20teor%C3%ADa/Matlab/EC01.m),  [Octave]
-(https://github.com/anxosanchez/sopq/blob/main/Casos%20de%20teor%C3%ADa/Matlab/EC01_Octave.m),  [Python]
-(https://github.com/anxosanchez/sopq/blob/main/Casos%20de%20teor%C3%ADa/Python/EC01.py)
+Ficheiros: EC01.tipo [Excel](https://github.com/anxosanchez/sopq/blob/main/Casos%20de%20teor%C3%ADa/Excel/EC01.xlxs), [Libreoffice Calc](https://github.com/anxosanchez/sopq/blob/main/Casos%20de%20teor%C3%ADa/Excel/EC01.ods), [Jupyter Notebook](https://github.com/anxosanchez/sopq/blob/main/Casos%20de%20teor%C3%ADa/Jupyter/EC01.ipynb), [Matlab](https://github.com/anxosanchez/sopq/blob/main/Casos%20de%20teor%C3%ADa/Matlab/EC01.m),  [Octave](https://github.com/anxosanchez/sopq/blob/main/Casos%20de%20teor%C3%ADa/Matlab/EC01_Octave.m),  [Python](https://github.com/anxosanchez/sopq/blob/main/Casos%20de%20teor%C3%ADa/Python/EC01.py)
+
 ## Caso 02.Velocidade terminal dunha partícula no seo dun fluído.
 Ficheiros: EC02.tipo
 
