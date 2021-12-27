@@ -1,4 +1,4 @@
-# Repositorio público da asignatura de Simulación e Optimización de Procesos Químicos de EEI.
+# Repositorio público da asignatura de Simulación e Optimización de Procesos Químicos da EEI.
 
 Os ficheiros referidos neste repositorio corresponden cos casos de teoría plantexados no [Moovi](hhtps://moovi.uvigo.gal) e teñen a form a seguinte:
 
