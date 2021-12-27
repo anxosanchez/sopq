@@ -12,7 +12,34 @@ onde XX representa o número co que aparece na plataforma e a terminación varí
 Ficheiros: EC01.tipo
 
 ## Caso 02.Velocidade terminal dunha partícula no seo dun fluído.
-Ficheiro: EC02.tipo
+Ficheiros: EC02.tipo
 
 ## Caso 03. Diagramas Pxy e Txy de mesturas binarias
-Ficheiro: EC03.tipo
+Ficheiros: EC03.tipo
+
+## Caso 04: Sistema multirreactivo en equilibrio en fase gasosa
+Ficheiros: EC04.tipo
+
+## Caso 05: Intercambio de calor nun tanque en réxime non estacionario
+Ficheiros EC05.tipo
+
+## Caso 06: Intercambio de calor en tres tanques en serie en réxime non estacionario
+Ficheiros EC06.tipo
+
+## Caso 07: Modelo Depredador-Prese (ODE-IVP)
+Ficheiros EC07.tipo
+
+## Caso 08: Deseño dunha columna de destilación polo métoido FUG
+## Ficheiros EC08.tipo
+
+## Caso 09: Reactores e cinética
+Ficheiros EC09.tipo
+
+## Caso 10: Reactor con difusión
+Ficheiros: EC10.tipo
+
+## Caso 11: Exemplo de exame final
+Ficheiros EC11X.tipo (X=1,2,3,4,5,6)
+
+# Caso 12: Aplicación do método FUG para mesturas multicompoñente
+Ficheiros EC12.tipo
