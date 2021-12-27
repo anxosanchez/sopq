@@ -9,7 +9,7 @@ ECXX.tipo
 onde XX representa o número co que aparece na plataforma e a terminación varía segundo sexa unha folla de cálculo (**xlsx, ods**), un script de matlam ou octave (**.m**)ou un script de python, ou un jupyter notebook (**.py**, **.ipynb**).
 
 ## Casos 01. Cálculos PVT para gases reais.
-Ficheiros: EC01.tipo [Follas de cálculo](https://github.com/anxosanchez/sopq/blob/main/Casos%20de%20teor%C3%ADa/)
+Ficheiros: EC01.tipo [Follas de cálculo](https://github.com/anxosanchez/sopq/blob/main/Casos%20de%20teor%C3%ADa/Excel/)
 
 ## Caso 02.Velocidade terminal dunha partícula no seo dun fluído.
 Ficheiros: EC02.tipo
